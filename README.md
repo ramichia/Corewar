@@ -9,3 +9,5 @@ Ce projet comporte trois parties:
 Vous pouvez trouver des exemples de champion dans le dossier ressources, ou a la racine avec le fichier bad_champ.s
 
 Bonne bataille!!
+
+ps: ce projet a été réalisé en groupe
